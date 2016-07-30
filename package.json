@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vijaynaga/TestNow.git"
+    "url": "git+https://github.com/vijaynaga/AKumble.git"
   },
   "keywords": [
     "none"
@@ -16,9 +16,9 @@
   "author": "vijaynaga",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vijaynaga/TestNow/issues"
+    "url": "https://github.com/vijaynaga/AKumble/issues"
   },
-  "homepage": "https://github.com/vijaynaga/TestNow#readme",
+  "homepage": "https://github.com/vijaynaga/AKumble#readme",
   "dependencies": {
     "express": "^4.14.0"
   }
