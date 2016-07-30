@@ -1,0 +1,25 @@
+{
+  "name": "akumble",
+  "version": "1.0.0",
+  "description": "sample api deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaynaga/TestNow.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "vijaynaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaynaga/TestNow/issues"
+  },
+  "homepage": "https://github.com/vijaynaga/TestNow#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
